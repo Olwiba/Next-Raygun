@@ -1,3 +1,9 @@
+![image](https://github.com/Olwiba/Next-Raygun/assets/14970658/d839c2e7-37d6-4ed6-a691-ea2211d288e6)
+
+```diff
++ note - please make sure to update the Raygun API key in `/src/app/layout` file
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
